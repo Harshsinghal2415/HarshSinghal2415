@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Shiva Singhal<br>🎓 I'm a Computer Science undergrad <br>         
+# Hi, I'm Shiva Singhal<br>
+🎓 I'm a Computer Science undergrad <br>         
 
 
 ## 🌐 Socials:
