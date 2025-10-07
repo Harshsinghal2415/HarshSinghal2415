@@ -1,4 +1,4 @@
-# Hi<br>
+# Hi there 👋 <br>
 I’m Shiva Singhal, a developer who loves turning complex problems into efficient solutions. Passionate about high-performance systems, backend engineering, and data analysis. Open to collaboration, open-source contributions, and challenging real-world projects.  
 
 
